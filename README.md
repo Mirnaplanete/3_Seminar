@@ -7,3 +7,4 @@
 * реалистичное :worried:
 * осеннее :flushed:
 * сонливое :confused:
+* грустнющее :grimacing:
